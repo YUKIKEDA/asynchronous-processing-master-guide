@@ -209,7 +209,7 @@ sequenceDiagram
 プロセスが「工場」だとすると、スレッドはその工場で働く「作業員」のようなものです。複数の作業員が同じ工場内で、同じ道具や材料を共有しながら、それぞれの作業を進めることができます。
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph PROCESS["🏭 プロセス"]
         subgraph SHARED["共有リソース"]
             CODE["コード領域"]
