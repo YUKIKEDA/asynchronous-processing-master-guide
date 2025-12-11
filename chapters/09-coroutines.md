@@ -975,7 +975,7 @@ RustのFutureは、コンパイル時にステートマシンに変換され、�
 
 ## 🔗 次の章へ
 
-[第10章: 言語別非同期処理](./10-language-specific.md) では、JavaScript（Node.js）、Python（asyncio）、Rust（tokio）、Go（goroutine）など、各言語の非同期処理の実装と特徴を詳しく比較します。
+[第10章: 高度な並行処理モデル](./10-advanced-models.md) では、アクターモデル、CSP、データフロープログラミング、リアクティブプログラミングなど、高度な並行処理モデルを学びます。
 
 ---
 
